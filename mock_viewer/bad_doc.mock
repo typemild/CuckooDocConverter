@@ -1,0 +1,3 @@
+EXPLOIT
+dir > c:\converted\bad_doc.pdf
+echo '' > c:\converted\bad_doc.eof
